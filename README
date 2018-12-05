@@ -1,0 +1,5 @@
+Ejecutar ProjectSO que es la adaptación grafica del programa proyectofinal que funciona desde la shell.
+
+Este programa nos muestra información sobre el sistema operativo, memoria, dispositivos de red, dispositivos de almacenamiento y sobre las direcciones ip que se están utilizando.
+
+Esta versión es solo para sistemas Gnu/linux de 64 bits.
